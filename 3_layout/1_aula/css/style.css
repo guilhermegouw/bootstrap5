@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+}
+
+/* SM */
+@media (min-width: 576px) {
+    h1 {
+        color: blue;
+    }
+}
+
+/* MD */
+@media (min-width: 768px) {
+    h1 {
+        color: green;
+    }
+}
+
+.btn-primary {
+    background-color: red;
+}
+
+.container {
+    background-color: #444;
+}
+
+.container-fluid {
+    background-color: #888;
+}
+
+.container-sm {
+    background-color: blue;
+
+}
+.container-fluid {
+    background-color: crimson;
+}
+
+.container-fluid {
+    background-color: chocolate;
+}
